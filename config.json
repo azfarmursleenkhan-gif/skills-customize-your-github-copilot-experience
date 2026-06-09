@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-persistent-rest-apis",
+      "title": "Persistent REST APIs with FastAPI",
+      "description": "Build a FastAPI app with SQLite persistence, CRUD routes, validation, and API key protection.",
+      "path": "assignments/fastapi-persistent-rest-apis",
+      "dueDate": "2026-06-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
